@@ -1,4 +1,4 @@
-# LangGraph-Graph RAG Backend Overview
+# LangGraph-Graph RAG
 
 LangGraph-Graph RAG(Backend)는 **LangGraph + SGLang** 조합으로 동작하는 Vector-Graph Hybrid RAG 플랫폼입니다. 입력 문서를 LangGraph Upload 파이프라인으로 구조화하고, 질의 시 Hop 분류 결과에 따라 Vector Retrieval / Weaviate GraphRAG / Legacy GraphDB(Neo4j) 경로를 자동 선택해 답변을 생성합니다.
 
