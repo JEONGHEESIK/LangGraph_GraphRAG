@@ -179,7 +179,7 @@ docker run -d --name neo4j-dev \
 
 ## 기여 & 문의
 
-- jeongnext@hnextits.com
+- koto144@gmail.com
 
 
 이슈/PR을 환영하며, 백엔드 모듈 중심의 개선 사항을 자유롭게 제안해 주세요. 
